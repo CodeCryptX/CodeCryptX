@@ -63,23 +63,34 @@
 ---
 
 ## 🚀 What's Next?
-I'm constantly pushing the boundaries of what's possible in **Blockchain, AI, and Trading**. If you're building something innovative, exploring new decentralized horizons, or just want to chat about the future of tech and finance, let's connect!
+
+I'm on a mission to explore **Blockchain, AI, and Trading** in ways that push boundaries and create impact. Here's what I'm currently focused on:
+
+<p align="center">
+  <a href="https://github.com/CodeCryptX" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/mr_hassan_X" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hassan-murtaza-84a06622a/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Coding & Trading" />
+</p>
+
+### 💡 Currently Exploring
+- 🌐 **Decentralized Applications**: Building Real-World Asset (RWA) dApps on Ethereum  
+- 🤖 **AI & GenAI**: Crafting intelligent agents and smart algorithms  
+- 📈 **Crypto & Trading**: Analyzing markets, developing strategies, and automating trades  
+- 🛠️ **Web3 & DevOps**: Merging blockchain with modern software practices  
 
 ---
 
 <p align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecryptx&show_icons=true&locale=en&layout=compact&theme=radical&card_width=450" alt="codecryptx - Top Languages" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecryptx&theme=radical&hide_border=true" alt="codecryptx - Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <i>Always learning. Always building. Always pushing the limits. Let's innovate together! 💥</i>
 </p>
 
----
-
-💼 *Always building. Always learning. Always trading. And always ready for the next big challenge.* 💡
