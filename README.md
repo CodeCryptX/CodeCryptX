@@ -64,17 +64,17 @@
 
 ## 🚀 What's Next?
 
-I'm on a mission to explore **Blockchain, AI, and Trading** in ways that push boundaries and create impact. Here's what I'm currently focused on:
+I'm constantly pushing the boundaries of **Blockchain, AI, and Trading**. Here's what I’m up to now:
 
 <p align="center">
   <a href="https://github.com/CodeCryptX" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://twitter.com/mr_hassan_X" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/hassan-murtaza-84a06622a/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -82,15 +82,19 @@ I'm on a mission to explore **Blockchain, AI, and Trading** in ways that push bo
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Coding & Trading" />
 </p>
 
-### 💡 Currently Exploring
-- 🌐 **Decentralized Applications**: Building Real-World Asset (RWA) dApps on Ethereum  
-- 🤖 **AI & GenAI**: Crafting intelligent agents and smart algorithms  
-- 📈 **Crypto & Trading**: Analyzing markets, developing strategies, and automating trades  
-- 🛠️ **Web3 & DevOps**: Merging blockchain with modern software practices  
-
----
+### 🔹 My Focus Areas
+<p align="center">
+  <img src="https://img.shields.io/badge/Decentralized%20Apps-💻-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20&%20GenAI-🤖-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Crypto%20%26%20Trading-📈-32cd32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web3%20%26%20DevOps-🛠️-ff8c00?style=for-the-badge" />
+</p>
 
 <p align="center">
-  <i>Always learning. Always building. Always pushing the limits. Let's innovate together! 💥</i>
+  <i>💡 Always learning, always building, always trading, and always ready for the next big challenge! 💥</i>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeCryptX&show_icons=true&theme=radical" width="600" alt="GitHub Stats"/>
 </p>
 
