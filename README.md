@@ -62,6 +62,8 @@
 
 ---
 
+---
+
 ## 🚀 What's Next?
 I'm constantly pushing the boundaries of what's possible in **Blockchain, AI, and Trading**. If you're building something innovative, exploring new decentralized horizons, or just want to chat about the future of tech and finance, let's connect!
 
@@ -73,8 +75,13 @@ I'm constantly pushing the boundaries of what's possible in **Blockchain, AI, an
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecryptx&show_icons=true&locale=en&layout=compact&theme=radical" alt="codecryptx - Top Languages" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecryptx&theme=radical" alt="codecryptx - Streak Stats" />
+      <td width="50%" align="center">
+        <a href="https://ethereum.org/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" height="30"/></a>
+        <a href="https://www.tradingview.com/" target="_blank"><img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" height="30"/></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/></a>
+        <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="30"/></a>
+        <br><br>
+        <i>Fueling the future with smart contracts & algorithms.</i>
       </td>
     </tr>
   </table>
