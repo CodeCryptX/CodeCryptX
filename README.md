@@ -68,7 +68,16 @@ I'm constantly pushing the boundaries of what's possible in **Blockchain, AI, an
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecryptx&show_icons=true&locale=en&layout=compact&theme=radical" alt="codecryptx" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecryptx&show_icons=true&locale=en&layout=compact&theme=radical" alt="codecryptx - Top Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecryptx&theme=radical" alt="codecryptx - Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
