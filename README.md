@@ -58,29 +58,11 @@
   <a href="https://ipfs.tech/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ipfs-2.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
-
-
 ---
 
 ## 🚀 What's Next?
 
-I'm constantly pushing the boundaries of **Blockchain, AI, and Trading**. Here's what I’m up to now:
-
-<p align="center">
-  <a href="https://github.com/CodeCryptX" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/mr_hassan_X" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hassan-murtaza-84a06622a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Coding & Trading" />
-</p>
+I'm constantly pushing the boundaries of **Blockchain, AI, and Trading**.
 
 ### 🔹 My Focus Areas
 <p align="center">
