@@ -62,10 +62,15 @@
 
 ---
 
+## 🚀 What's Next?
+I'm constantly pushing the boundaries of what's possible in **Blockchain, AI, and Trading**. If you're building something innovative, exploring new decentralized horizons, or just want to chat about the future of tech and finance, let's connect!
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecryptx&show_icons=true&locale=en&layout=compact&theme=radical" alt="codecryptx" />
 </p>
 
 ---
 
-💼 *Always building. Always learning. Always trading.*  
+💼 *Always building. Always learning. Always trading. And always ready for the next big challenge.* 💡
